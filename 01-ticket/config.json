@@ -1,0 +1,37 @@
+{
+  "embedColor": "#5865F2",
+  "ticketCategoryName": "🎫 Tickets",
+  "staffRoleId": "",
+  "logChannelId": "",
+  "welcomeMessage": "Olá {user}! Descreva seu problema com detalhes. Um membro da staff irá te atender em breve.",
+  "closeMessage": "Ticket fechado por {user}.",
+  "ratingEnabled": true,
+  "voiceChannelEnabled": true,
+  "maxTicketsPerUser": 1,
+  "categories": [
+    {
+      "label": "Suporte",
+      "description": "Dúvidas e problemas gerais",
+      "emoji": "🛠️",
+      "value": "suporte"
+    },
+    {
+      "label": "Denúncia",
+      "description": "Reportar um membro",
+      "emoji": "🚨",
+      "value": "denuncia"
+    },
+    {
+      "label": "Parceria",
+      "description": "Propostas de parceria",
+      "emoji": "🤝",
+      "value": "parceria"
+    },
+    {
+      "label": "Outros",
+      "description": "Outros assuntos",
+      "emoji": "📌",
+      "value": "outros"
+    }
+  ]
+}

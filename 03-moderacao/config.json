@@ -1,0 +1,12 @@
+{
+  "embedColor": "#ED4245",
+  "logChannelId": "",
+  "muteRoleId": "",
+  "antispam": {
+    "enabled": true,
+    "maxMessages": 5,
+    "interval": 7000,
+    "punishment": "timeout",
+    "timeoutDuration": 300000
+  }
+}

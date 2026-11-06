@@ -1,0 +1,14 @@
+{
+  "embedColor": "#9B59B6",
+  "ticketCategoryName": "🎫 Tickets IA",
+  "staffRoleId": "",
+  "logChannelId": "",
+  "aiEnabled": true,
+  "aiSystemPrompt": "Você é um assistente de suporte educado e prestativo de um servidor Discord. Responda de forma clara, objetiva e amigável. Se não souber a resposta, diga que vai chamar a staff.",
+  "welcomeMessage": "Olá {user}! Descreva seu problema. A IA tentará te ajudar automaticamente. Se precisar de atendimento humano, aguarde a staff.",
+  "categories": [
+    { "label": "Suporte", "description": "Dúvidas gerais", "emoji": "🛠️", "value": "suporte" },
+    { "label": "Problema Técnico", "description": "Bugs e erros", "emoji": "🐛", "value": "tecnico" },
+    { "label": "Outros", "description": "Outros assuntos", "emoji": "📌", "value": "outros" }
+  ]
+}

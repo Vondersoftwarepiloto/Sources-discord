@@ -1,0 +1,10 @@
+{
+  "embedColor": "#5865F2",
+  "logChannelId": "",
+  "perguntas": [
+    "Qual seu nome/nickname?",
+    "Qual sua idade?",
+    "Por que quer entrar na equipe/servidor?",
+    "Tem experiência anterior?"
+  ]
+}
